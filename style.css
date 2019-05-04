@@ -1,5 +1,7 @@
 body {
     font-family: 'Work Sans', sans-serif;
+    background-color: #DAF7A6;
+    
 }
 
 h1 {
@@ -8,6 +10,7 @@ h1 {
 
 .nav {
     background-color: #DAF7A6;
-    text-size: 14px; 
+    text-size: 16px; 
     border-radius: 2px;
+    font-weight: bold;
 }
