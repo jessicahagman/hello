@@ -1,4 +1,7 @@
-h1 {
-   color: purple; 
-   background-color: orange;
+body {
+   font-family: 'Work Sans', sans-serif; 
+}
+
+h1 h2 h3 {
+   font-family: 'Prata', serif; 
 }
