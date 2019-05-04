@@ -5,3 +5,9 @@ body {
 h1 {
     font-family: 'Prata', serif;
 }
+
+.nav {
+    background-color: #DAF7A6;
+    text-size: 14px; 
+    border-radius: 2px;
+}
