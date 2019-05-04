@@ -1,7 +1,15 @@
 body {
    font-family: 'Work Sans', sans-serif; 
+   background-color: ivory; 
+   border-radius: 2px; 
+   border: 2px solid gray; 
 }
 
 h1 {
    font-family: 'Prata', serif; 
+   font-weight: bold; 
+   text-align: center; 
+   background-color: orange; 
+   border-radius: 2px; 
+   border: 2px solid; 
 }
